@@ -490,6 +490,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-39" target="iLoy-6NDUpaXOG8p_2Oe-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-39" target="iLoy-6NDUpaXOG8p_2Oe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-39" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;AI行为分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -501,6 +504,9 @@
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-44" value="获取考试规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="4428" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-45" target="iLoy-6NDUpaXOG8p_2Oe-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-45" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;异常检测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="4270" width="120" height="60" as="geometry" />
