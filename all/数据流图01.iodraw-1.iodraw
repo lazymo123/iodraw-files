@@ -526,11 +526,17 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-52" value="存储行为记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="4428" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-53" target="iLoy-6NDUpaXOG8p_2Oe-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-53" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;告警处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-55" value="触发告警" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="945" y="4268" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-56" target="iLoy-6NDUpaXOG8p_2Oe-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监考员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="4430" width="120" height="60" as="geometry" />
