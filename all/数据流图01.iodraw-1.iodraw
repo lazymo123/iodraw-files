@@ -688,7 +688,7 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-107" value="批改主观题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="284" y="5580" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;人工阅卷&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;成绩统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="5580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-110" value="提交主观题成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
