@@ -691,6 +691,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-108" target="iLoy-6NDUpaXOG8p_2Oe-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-108" target="iLoy-6NDUpaXOG8p_2Oe-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;成绩统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="5580" width="120" height="60" as="geometry" />
         </mxCell>
