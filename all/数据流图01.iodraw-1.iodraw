@@ -541,6 +541,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监考员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="4430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-59" value="接受告警通知&lt;div&gt;人工复核&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="4363" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
