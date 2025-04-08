@@ -703,7 +703,7 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-114" value="提交客观题成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="5708" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;学生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="5450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
