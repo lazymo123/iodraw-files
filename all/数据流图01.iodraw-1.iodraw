@@ -430,6 +430,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-15" value="下发试卷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="3688" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-16" value="提交答卷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="3608" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
