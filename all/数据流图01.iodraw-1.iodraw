@@ -580,6 +580,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-70" value="提交身份证/人脸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="4888" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-71" target="iLoy-6NDUpaXOG8p_2Oe-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;考试报名&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="4830" width="120" height="60" as="geometry" />
         </mxCell>
@@ -594,6 +597,9 @@
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-77" value="&lt;font size=&quot;3&quot;&gt;考试数据库&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="4676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-79" value="关联考生与考试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="965" y="4768" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
