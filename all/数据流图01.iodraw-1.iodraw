@@ -688,6 +688,9 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-107" value="批改主观题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="284" y="5580" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-108" target="iLoy-6NDUpaXOG8p_2Oe-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;成绩统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="5580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -712,8 +715,17 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-117" value="查看成绩详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="5528" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLoy-6NDUpaXOG8p_2Oe-118" target="iLoy-6NDUpaXOG8p_2Oe-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-118" value="&lt;font size=&quot;3&quot;&gt;考生数据库&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="5580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-120" value="更新考生成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="5578" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-121" value="&lt;font size=&quot;3&quot;&gt;考生数据库&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="5720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
