@@ -590,7 +590,7 @@
           <mxGeometry x="805" y="4878" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-76" value="&lt;font size=&quot;3&quot;&gt;考试数据库&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="354" y="4440" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="4676" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
