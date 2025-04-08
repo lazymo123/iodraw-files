@@ -517,6 +517,12 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-48" value="&lt;font size=&quot;3&quot;&gt;监考数据库&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="4428" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-51" value="记录异常事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="4358" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="4428" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
