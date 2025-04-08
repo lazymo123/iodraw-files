@@ -622,8 +622,8 @@
         <mxCell id="iLoy-6NDUpaXOG8p_2Oe-85" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;信息维护&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="5201" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-87" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="5208" width="50" height="30" as="geometry" />
+        <mxCell id="iLoy-6NDUpaXOG8p_2Oe-87" value="新增/编辑/删除/试题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="5208" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
