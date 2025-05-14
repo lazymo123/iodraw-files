@@ -35,7 +35,7 @@
           <mxGeometry x="226.2340036563071" y="1268.6361398325948" width="42.0475319926874" height="31.363860167405225" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--10" value="调用分布式事务协调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="aX1z09aZIzj1mf-ekR6--37">
-          <mxGeometry x="77.23948811700184" y="780.2560315115708" width="88.20840950639855" height="123.53520433284096" as="geometry" />
+          <mxGeometry x="77.24" y="780.26" width="112.76" height="123.54" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--11" value="J" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aX1z09aZIzj1mf-ekR6--37">
           <mxGeometry x="42.0475319926874" y="950.5169867060563" width="31.078610603290677" height="31.363860167405225" as="geometry" />
