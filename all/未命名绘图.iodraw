@@ -1,185 +1,184 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="rn9bnu-RfStsgZkgJFME">
-    <mxGraphModel dx="1018" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="cwsXWQtAXMCBOLBriRgV">
+    <mxGraphModel dx="1221" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aX1z09aZIzj1mf-ekR6--1" value="考生登录系统" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="235.26" y="170" width="71.29" height="31.36" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-1" value="考生登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--2" value="进入考试报名页面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230.69469835466177" y="233.36779911373708" width="80.89579524680073" height="113.29394387001479" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-2" value="进入考试界面" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="119" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--3" value="系统显示当前开放的考试列表" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="213.327239488117" y="378.0256031511571" width="115.17367458866545" height="42.245199409158054" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-3" value="系统验证考生身份并加载考试规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="306" y="313" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--4" value="考生选择目标考试场次" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220.6398537477148" y="452.9148202855736" width="100.54844606946985" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-4" value="设备是否满足监考要求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="215" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--5" value="提交报名请求" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="235.2650822669104" y="515.6425406203841" width="71.29798903107861" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-5" value="考生点击“开始考试”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="717" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--6" value="系统调用考生管理模块验证考生身份状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="211.96" y="579.01" width="138.04" height="165.14" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-6" value="系统禁止进入考试并提示“设备不符合要求”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="534" y="1939" width="244" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--7" value="检查考试剩余名额" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="163.51" y="790.88" width="96.49" height="113.29" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="386" y="2055" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--8" value="提示“身份验证失败，请重新提交材料”" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="408.48263254113346" y="1364.3870014771048" width="111.51736745886653" height="42.245199409158054" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-8" value="系统分配试卷并启动AI监考服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="816" width="250" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--10" value="调用分布式事务协调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.24" y="950.26" width="112.76" height="123.54" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-9" value="考生答题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="932" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--11" value="J" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="62.0475319926874" y="1120.5169867060563" width="31.078610603290677" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-10" value="系统实时保存答题进度至缓存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1031" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--12" value="K" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="61.59049360146252" y="1197.9665189561792" width="31.992687385740396" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-11" value="考试时间是否结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1147" width="183" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--13" value="L" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="62.0475319926874" y="1281.176760216642" width="31.535648994515537" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-12" value="系统自动提交已保存的答题记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1543" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--14" value="系统向考生发送报名成功通知" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1364.3870014771048" width="115.17367458866545" height="42.245199409158054" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-13" value="考生点击“提交试卷”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1402" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--15" value="提示“当前场次已满，请选择其他场次”" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="274.11334552102375" y="1364.3870014771048" width="111.51736745886653" height="42.245199409158054" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-14" value="答卷是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="322" y="1501" width="151" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--16" value="提示“报名失败，请稍后重试”" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="148.88482632541135" y="1275.4160512063024" width="111.51736745886653" height="42.245199409158054" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-15" value="触发自动阅卷流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="67" y="1733" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--17" value="自动释放已占用资源" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="158.02559414990858" y="1370.147710487445" width="93.23583180987202" height="31.363860167405225" as="geometry" />
+        <mxCell id="dktIuOumJwImiEtcmWYo-16" value="提示“请完成所有必答题后再提交”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="376" y="1724" width="244" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--1" target="aX1z09aZIzj1mf-ekR6--2">
+        <mxCell id="dktIuOumJwImiEtcmWYo-17" value="系统提示“提交成功”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1840" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-18" value="关闭考试界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="1948" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-1" target="dktIuOumJwImiEtcmWYo-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--2" target="aX1z09aZIzj1mf-ekR6--3">
+        <mxCell id="dktIuOumJwImiEtcmWYo-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-2" target="dktIuOumJwImiEtcmWYo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--3" target="aX1z09aZIzj1mf-ekR6--4">
+        <mxCell id="dktIuOumJwImiEtcmWYo-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-3" target="dktIuOumJwImiEtcmWYo-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--4" target="aX1z09aZIzj1mf-ekR6--5">
+        <mxCell id="dktIuOumJwImiEtcmWYo-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-4" target="dktIuOumJwImiEtcmWYo-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-4" target="dktIuOumJwImiEtcmWYo-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-6" target="dktIuOumJwImiEtcmWYo-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-5" target="dktIuOumJwImiEtcmWYo-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--5" target="aX1z09aZIzj1mf-ekR6--6">
+        <mxCell id="dktIuOumJwImiEtcmWYo-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-8" target="dktIuOumJwImiEtcmWYo-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--23" value="验证通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--6" target="aX1z09aZIzj1mf-ekR6--7">
+        <mxCell id="dktIuOumJwImiEtcmWYo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-9" target="dktIuOumJwImiEtcmWYo-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203.72943327239489" y="767.8335795174792" />
+              <mxPoint x="272" y="1006" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--24" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--6" target="aX1z09aZIzj1mf-ekR6--8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464.69835466179154" y="767.8335795174792" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464.69835466179154" y="1422.6341703594292" />
-            </Array>
-            <mxPoint x="288.28153564899435" y="1451.181683899557" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--26" value="名额充足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--7" target="aX1z09aZIzj1mf-ekR6--10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="141.11517367458868" y="927.2131954702119" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--27" value="更新考生数据库报名记录" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--10" target="aX1z09aZIzj1mf-ekR6--11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="77.58683729433272" y="1096.8340718857705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--28" value="更新考试数据库关联信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--11" target="aX1z09aZIzj1mf-ekR6--12">
+        <mxCell id="dktIuOumJwImiEtcmWYo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-10" target="dktIuOumJwImiEtcmWYo-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--29" value="预留试题资源" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--12" target="aX1z09aZIzj1mf-ekR6--13">
+        <mxCell id="dktIuOumJwImiEtcmWYo-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-11" target="dktIuOumJwImiEtcmWYo-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="1366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-30" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-11" target="dktIuOumJwImiEtcmWYo-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="1366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-13" target="dktIuOumJwImiEtcmWYo-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--30" value="事务提交成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--13" target="aX1z09aZIzj1mf-ekR6--14">
+        <mxCell id="dktIuOumJwImiEtcmWYo-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-14" target="dktIuOumJwImiEtcmWYo-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287" y="1688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-33" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-14" target="dktIuOumJwImiEtcmWYo-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="1688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.79;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-16" target="dktIuOumJwImiEtcmWYo-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="561" y="1688" />
+              <mxPoint x="561" y="1006" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-15" target="dktIuOumJwImiEtcmWYo-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="77.58683729433272" y="1422.6341703594292" />
-            </Array>
-            <mxPoint x="246.2340036563071" y="1450.8680452978829" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--32" value="名额不足" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--7" target="aX1z09aZIzj1mf-ekR6--15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="329.8720292504571" y="927.2131954702119" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="329.8720292504571" y="1422.6341703594292" />
-            </Array>
-            <mxPoint x="288.28153564899435" y="1443.9679960610538" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--34" value="事务协调失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--10" target="aX1z09aZIzj1mf-ekR6--16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="204.64351005484457" y="1096.8340718857705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--16" target="aX1z09aZIzj1mf-ekR6--17">
+        <mxCell id="dktIuOumJwImiEtcmWYo-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-17" target="dktIuOumJwImiEtcmWYo-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--17">
+        <mxCell id="dktIuOumJwImiEtcmWYo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-18" target="dktIuOumJwImiEtcmWYo-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204.64351005484457" y="1422.6341703594292" />
+              <mxPoint x="161" y="2030" />
             </Array>
-            <mxPoint x="246.2340036563071" y="1443.9679960610538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="251.26" y="1440" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--39" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="255.91" y="110" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aX1z09aZIzj1mf-ekR6--39" parent="1">
+        <mxCell id="dktIuOumJwImiEtcmWYo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-12" target="dktIuOumJwImiEtcmWYo-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270.90999999999997" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="146" y="1688" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
