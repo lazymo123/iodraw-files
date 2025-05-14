@@ -22,9 +22,6 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-6" value="系统禁止进入考试并提示“设备不符合要求”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="398.3799472295515" y="1093.7375911708255" width="179.62005277044855" height="36.928963531669865" as="geometry" />
         </mxCell>
-        <mxCell id="dktIuOumJwImiEtcmWYo-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="289.43007915567284" y="1158.6430422264875" width="67.72559366754618" height="27.416957773512475" as="geometry" />
-        </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-8" value="系统分配试卷并启动AI监考服务" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="172.3825857519789" y="465.3856813819578" width="184.0369393139842" height="36.928963531669865" as="geometry" />
         </mxCell>
@@ -87,11 +84,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dktIuOumJwImiEtcmWYo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-6" target="dktIuOumJwImiEtcmWYo-7">
+        <mxCell id="dktIuOumJwImiEtcmWYo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488.18997361477574" y="1144.6547984644913" />
             </Array>
+            <mxPoint x="357.1556728232192" y="1166.8681295585413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-5" target="dktIuOumJwImiEtcmWYo-8">
@@ -167,11 +165,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dktIuOumJwImiEtcmWYo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-18" target="dktIuOumJwImiEtcmWYo-7">
+        <mxCell id="dktIuOumJwImiEtcmWYo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="123.79683377308707" y="1144.6547984644913" />
             </Array>
+            <mxPoint x="289.43007915567296" y="1167.6906382917466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-12" target="dktIuOumJwImiEtcmWYo-15">
@@ -180,6 +179,9 @@
               <mxPoint x="112.75461741424803" y="953.2956238003839" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dktIuOumJwImiEtcmWYo-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="308" y="1160" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
