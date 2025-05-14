@@ -20,7 +20,7 @@
           <mxGeometry x="235.2650822669104" y="515.6425406203841" width="71.29798903107861" height="31.363860167405225" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--6" value="系统调用考生管理模块验证考生身份状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="211.95612431444243" y="579.0103397341211" width="117.91590493601463" height="165.14032496307237" as="geometry" />
+          <mxGeometry x="211.96" y="579.01" width="138.04" height="165.14" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--7" value="检查考试剩余名额" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="163.51005484460694" y="790.8764155588381" width="80.89579524680073" height="113.29394387001479" as="geometry" />
