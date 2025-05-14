@@ -5,55 +5,55 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dktIuOumJwImiEtcmWYo-1" value="考生登录系统" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="265.87335092348286" y="20" width="114.83905013192613" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="380.87335092348286" y="90" width="114.83905013192613" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-2" value="进入考试界面" style="rhombus;strokeWidth=2;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="270.2902374670185" y="75.3934452975048" width="106.74142480211083" height="81.13181381957774" as="geometry" />
+          <mxGeometry x="385.2902374670185" y="145.3934452975048" width="106.74142480211083" height="81.13181381957774" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-3" value="系统验证考生身份并加载考试规则" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230.53825857519791" y="183.942216890595" width="185.50923482849606" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="345.5382585751979" y="253.942216890595" width="185.50923482849606" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-4" value="设备是否满足监考要求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="244.5250659630607" y="249.40719769673703" width="158.2717678100264" height="120.298896353167" as="geometry" />
+          <mxGeometry x="359.5250659630607" y="319.40719769673706" width="158.2717678100264" height="120.298896353167" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-5" value="考生点击“开始考试”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="189.31398416886546" y="409.992236084453" width="150.91029023746702" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="304.31398416886543" y="479.992236084453" width="150.91029023746702" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-6" value="系统禁止进入考试并提示“设备不符合要求”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="398.3799472295515" y="1093.7375911708255" width="179.62005277044855" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="513.3799472295515" y="1163.7375911708255" width="179.62005277044855" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-8" value="系统分配试卷并启动AI监考服务" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="172.3825857519789" y="465.3856813819578" width="184.0369393139842" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="287.3825857519789" y="535.3856813819577" width="184.0369393139842" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-9" value="考生答题" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="218.75989445910292" y="530.29113243762" width="91.28232189973616" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="333.75989445910295" y="600.29113243762" width="91.28232189973616" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-10" value="系统实时保存答题进度至缓存" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="112.75461741424803" y="585.6845777351248" width="185.50923482849606" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="227.75461741424803" y="655.6845777351248" width="185.50923482849606" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-11" value="考试时间是否结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="137.78364116094988" y="650.590028790787" width="134.71503957783642" height="102.39394433781189" as="geometry" />
+          <mxGeometry x="252.78364116094988" y="720.590028790787" width="134.71503957783642" height="102.39394433781189" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-12" value="系统自动提交已保存的答题记录" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="872.1638099808061" width="185.50923482849606" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="135" y="942.1638099808061" width="185.50923482849606" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-13" value="考生点击“提交试卷”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="222.4406332453826" y="793.2701151631479" width="150.91029023746702" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="337.4406332453826" y="863.2701151631479" width="150.91029023746702" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-14" value="答卷是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="242.3166226912929" y="848.6635604606525" width="111.15831134564645" height="84.48899232245681" as="geometry" />
+          <mxGeometry x="357.3166226912929" y="918.6635604606525" width="111.15831134564645" height="84.48899232245681" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-15" value="触发自动阅卷流程" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="54.598944591029024" y="978.474462571977" width="138.3957783641161" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="169.598944591029" y="1048.474462571977" width="138.3957783641161" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-16" value="提示“请完成所有必答题后再提交”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="282.0686015831135" y="973.4386948176583" width="179.62005277044855" height="36.928963531669865" as="geometry" />
+          <mxGeometry x="397.0686015831135" y="1043.4386948176584" width="179.62005277044855" height="36.928963531669865" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-17" value="系统提示“提交成功”" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="48.70976253298153" y="1038.3441458733205" width="150.91029023746702" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="163.70976253298153" y="1108.3441458733205" width="150.91029023746702" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-18" value="关闭考试界面" style="whiteSpace=wrap;strokeWidth=2;container=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="66.37730870712402" y="1098.773358925144" width="114.83905013192613" height="27.416957773512475" as="geometry" />
+          <mxGeometry x="181.37730870712403" y="1168.773358925144" width="114.83905013192613" height="27.416957773512475" as="geometry" />
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-1" target="dktIuOumJwImiEtcmWYo-2">
           <mxGeometry relative="1" as="geometry">
@@ -73,23 +73,23 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-4" target="dktIuOumJwImiEtcmWYo-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="264.401055408971" y="389.8491650671785" />
+              <mxPoint x="379.401055408971" y="459.8491650671785" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-4" target="dktIuOumJwImiEtcmWYo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488.18997361477574" y="389.8491650671785" />
+              <mxPoint x="603.1899736147757" y="459.8491650671785" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488.18997361477574" y="1144.6547984644913" />
+              <mxPoint x="603.1899736147757" y="1214.6547984644913" />
             </Array>
-            <mxPoint x="357.1556728232192" y="1166.8681295585413" as="targetPoint" />
+            <mxPoint x="472.1556728232192" y="1236.8681295585413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-5" target="dktIuOumJwImiEtcmWYo-8">
@@ -105,7 +105,7 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-9" target="dktIuOumJwImiEtcmWYo-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205.50923482849606" y="571.6963339731286" />
+              <mxPoint x="320.50923482849606" y="641.6963339731286" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -117,14 +117,14 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-11" target="dktIuOumJwImiEtcmWYo-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="112.75461741424803" y="773.1270441458732" />
+              <mxPoint x="227.75461741424803" y="843.1270441458732" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-30" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-11" target="dktIuOumJwImiEtcmWYo-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="297.52770448548813" y="773.1270441458732" />
+              <mxPoint x="412.52770448548813" y="843.1270441458732" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,22 +136,22 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-14" target="dktIuOumJwImiEtcmWYo-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216.55145118733512" y="953.2956238003839" />
+              <mxPoint x="331.55145118733515" y="1023.2956238003839" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-33" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-14" target="dktIuOumJwImiEtcmWYo-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="312.2506596306069" y="953.2956238003839" />
+              <mxPoint x="427.2506596306069" y="1023.2956238003839" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.79;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-16" target="dktIuOumJwImiEtcmWYo-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="418.2559366754618" y="953.2956238003839" />
-              <mxPoint x="418.2559366754618" y="571.6963339731286" />
+              <mxPoint x="533.2559366754617" y="1023.2956238003839" />
+              <mxPoint x="533.2559366754617" y="641.6963339731286" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,20 +168,20 @@
         <mxCell id="dktIuOumJwImiEtcmWYo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="123.79683377308707" y="1144.6547984644913" />
+              <mxPoint x="238.7968337730871" y="1214.6547984644913" />
             </Array>
-            <mxPoint x="289.43007915567296" y="1167.6906382917466" as="targetPoint" />
+            <mxPoint x="404.43007915567296" y="1237.6906382917466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="dktIuOumJwImiEtcmWYo-12" target="dktIuOumJwImiEtcmWYo-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="112.75461741424803" y="953.2956238003839" />
+              <mxPoint x="227.75461741424803" y="1023.2956238003839" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dktIuOumJwImiEtcmWYo-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="308" y="1160" width="30" height="30" as="geometry" />
+          <mxGeometry x="423" y="1230" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
