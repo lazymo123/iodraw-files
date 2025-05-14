@@ -175,11 +175,11 @@
           <mxGeometry x="251.26" y="1440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--39" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="30" height="30" as="geometry" />
+          <mxGeometry x="255.91" y="110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aX1z09aZIzj1mf-ekR6--39" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="210" as="targetPoint" />
+            <mxPoint x="270.90999999999997" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
