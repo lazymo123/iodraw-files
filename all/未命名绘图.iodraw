@@ -28,9 +28,6 @@
         <mxCell id="aX1z09aZIzj1mf-ekR6--8" value="提示“身份验证失败，请重新提交材料”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="408.48263254113346" y="1364.3870014771048" width="111.51736745886653" height="42.245199409158054" as="geometry" />
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="246.2340036563071" y="1438.6361398325948" width="42.0475319926874" height="31.363860167405225" as="geometry" />
-        </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--10" value="调用分布式事务协调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.24" y="950.26" width="112.76" height="123.54" as="geometry" />
         </mxCell>
@@ -94,11 +91,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--8" target="aX1z09aZIzj1mf-ekR6--9">
+        <mxCell id="aX1z09aZIzj1mf-ekR6--25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="464.69835466179154" y="1422.6341703594292" />
             </Array>
+            <mxPoint x="288.28153564899435" y="1451.181683899557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--26" value="名额充足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--7" target="aX1z09aZIzj1mf-ekR6--10">
@@ -130,11 +128,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--14" target="aX1z09aZIzj1mf-ekR6--9">
+        <mxCell id="aX1z09aZIzj1mf-ekR6--31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="77.58683729433272" y="1422.6341703594292" />
             </Array>
+            <mxPoint x="246.2340036563071" y="1450.8680452978829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--32" value="名额不足" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--7" target="aX1z09aZIzj1mf-ekR6--15">
@@ -144,11 +143,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--15" target="aX1z09aZIzj1mf-ekR6--9">
+        <mxCell id="aX1z09aZIzj1mf-ekR6--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="329.8720292504571" y="1422.6341703594292" />
             </Array>
+            <mxPoint x="288.28153564899435" y="1443.9679960610538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX1z09aZIzj1mf-ekR6--34" value="事务协调失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--10" target="aX1z09aZIzj1mf-ekR6--16">
@@ -163,11 +163,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aX1z09aZIzj1mf-ekR6--36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--17" target="aX1z09aZIzj1mf-ekR6--9">
+        <mxCell id="aX1z09aZIzj1mf-ekR6--36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="aX1z09aZIzj1mf-ekR6--17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="204.64351005484457" y="1422.6341703594292" />
             </Array>
+            <mxPoint x="246.2340036563071" y="1443.9679960610538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
