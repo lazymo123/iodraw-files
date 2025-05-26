@@ -1,86 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OlSSazTBDGJiGiw_Ys55">
-    <mxGraphModel dx="1221" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eP8rHNtu1p7l6N8p-018-1" value="考勤管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="119" width="504" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-2" value="员工信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="544" y="119" width="1227" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-3" value="维护个人基础信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="579" y="144" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-4" value="管理个人档案信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="817" y="144" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-5" value="查看个人调动记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="144" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-6" value="接收试用期到期提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="144" width="205" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-7" value="接收合同续签提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1548" y="144" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-8" value="在线申请请假/调休" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="144" width="196" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-9" value="查看个人考勤记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="144" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-10" value="Employee" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="847" y="20" width="129" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="673" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1149" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1396" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1642" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="153" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-10" target="eP8rHNtu1p7l6N8p-018-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
