@@ -177,8 +177,8 @@
             <mxPoint x="564" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-138" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="810" width="30" height="60" as="geometry" />
+        <mxCell id="eP8rHNtu1p7l6N8p-018-138" value="HR管理人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="99" y="632.5" width="80" height="137.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
