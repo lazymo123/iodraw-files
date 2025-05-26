@@ -781,7 +781,7 @@
           <mxGeometry x="348" y="1499" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-294" value="发起入职" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
-          <mxGeometry x="522" y="1499" width="124" height="49" as="geometry" />
+          <mxGeometry x="519" y="1475" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-295" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
           <mxGeometry x="276" y="1597" width="55" height="34" as="geometry" />
