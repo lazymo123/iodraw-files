@@ -10,7 +10,7 @@
         <mxCell id="eP8rHNtu1p7l6N8p-018-19" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="1097" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-20" value="员工信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eP8rHNtu1p7l6N8p-018-20" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="1310" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-21" value="HR管理人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -24,14 +24,6 @@
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-24" value="员工档案管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="585" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-25" target="eP8rHNtu1p7l6N8p-018-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eP8rHNtu1p7l6N8p-018-60">
-          <mxGeometry x="-0.1581" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-25" value="员工调动记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="851" y="585" width="156" height="49" as="geometry" />
@@ -83,6 +75,9 @@
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;招聘管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
