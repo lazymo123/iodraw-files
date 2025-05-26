@@ -102,8 +102,23 @@
         <mxCell id="eP8rHNtu1p7l6N8p-018-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;考勤统计&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-111" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="eP8rHNtu1p7l6N8p-018-112" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;考勤管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-113" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;请假审批&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-114" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;考勤统计&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-115" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;考勤管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="430" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
