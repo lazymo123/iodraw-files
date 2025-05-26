@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OlSSazTBDGJiGiw_Ys55">
-    <mxGraphModel dx="1436" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,34 +547,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-254" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="22" y="2478" width="331" height="796" as="geometry" />
+          <mxGeometry x="22" y="2517" width="302" height="757" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-236" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="111" width="55" height="34" as="geometry" />
+          <mxGeometry x="101.27492447129909" width="50.181268882175225" height="32.334170854271356" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-237" value="创建员工基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="44" y="84" width="188" height="49" as="geometry" />
+          <mxGeometry x="40.14501510574018" y="79.88442211055276" width="171.5287009063444" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-238" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="82" y="182" width="113" height="113" as="geometry" />
+          <mxGeometry x="74.81570996978851" y="173.08291457286433" width="103.09969788519636" height="107.46356783919597" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-239" value="修改信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry y="368" width="125" height="49" as="geometry" />
+          <mxGeometry y="349.96984924623115" width="114.04833836858005" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-240" value="分配部门职位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="175" y="368" width="156" height="49" as="geometry" />
+          <mxGeometry x="159.66767371601208" y="349.96984924623115" width="142.3323262839879" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-241" value="创建系统账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="175" y="466" width="156" height="49" as="geometry" />
+          <mxGeometry x="159.66767371601208" y="443.1683417085427" width="142.3323262839879" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-242" value="上传证件档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="175" y="565" width="156" height="49" as="geometry" />
+          <mxGeometry x="159.66767371601208" y="537.3178391959799" width="142.3323262839879" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-243" value="发送入职通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="175" y="664" width="156" height="49" as="geometry" />
+          <mxGeometry x="159.66767371601208" y="631.4673366834171" width="142.3323262839879" height="46.599246231155774" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-244" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-254">
-          <mxGeometry x="225" y="762" width="55" height="34" as="geometry" />
+          <mxGeometry x="205.2870090634441" y="724.6658291457286" width="50.181268882175225" height="32.334170854271356" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-245" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="eP8rHNtu1p7l6N8p-018-254" source="eP8rHNtu1p7l6N8p-018-236" target="eP8rHNtu1p7l6N8p-018-237">
           <mxGeometry relative="1" as="geometry">
@@ -589,21 +589,21 @@
         <mxCell id="eP8rHNtu1p7l6N8p-018-247" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="eP8rHNtu1p7l6N8p-018-254" source="eP8rHNtu1p7l6N8p-018-238" target="eP8rHNtu1p7l6N8p-018-239">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="39" y="331" />
+              <mxPoint x="35.583081570996974" y="314.7826633165829" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-248" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=-0.01;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="eP8rHNtu1p7l6N8p-018-254" source="eP8rHNtu1p7l6N8p-018-239" target="eP8rHNtu1p7l6N8p-018-238">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="138" y="331" />
+              <mxPoint x="125.90936555891238" y="314.7826633165829" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-249" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="eP8rHNtu1p7l6N8p-018-254" source="eP8rHNtu1p7l6N8p-018-238" target="eP8rHNtu1p7l6N8p-018-240">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="253" y="331" />
+              <mxPoint x="230.83383685800604" y="314.7826633165829" />
             </Array>
           </mxGeometry>
         </mxCell>
