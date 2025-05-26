@@ -769,7 +769,7 @@
           <mxGeometry x="348" y="1020" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-290" value="发送拒绝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
-          <mxGeometry x="174" y="1499" width="124" height="49" as="geometry" />
+          <mxGeometry x="182" y="1475" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-291" value="发放Offer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
           <mxGeometry x="432" y="1180" width="130" height="49" as="geometry" />
@@ -778,7 +778,7 @@
           <mxGeometry x="435" y="1301" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-293" value="更新状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
-          <mxGeometry x="348" y="1499" width="124" height="49" as="geometry" />
+          <mxGeometry x="348" y="1475" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-294" value="发起入职" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="eP8rHNtu1p7l6N8p-018-317">
           <mxGeometry x="519" y="1475" width="124" height="49" as="geometry" />
