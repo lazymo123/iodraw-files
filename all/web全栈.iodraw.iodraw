@@ -394,8 +394,23 @@
         <mxCell id="eP8rHNtu1p7l6N8p-018-201" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="1968" width="42" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="eP8rHNtu1p7l6N8p-018-203" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;员工信息管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eP8rHNtu1p7l6N8p-018-203" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户账号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="671" y="1902" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-204" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户权限&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="2062" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-206" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.036;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-201" target="eP8rHNtu1p7l6N8p-018-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689" y="2112" as="sourcePoint" />
+            <mxPoint x="739" y="2062" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eP8rHNtu1p7l6N8p-018-207" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eP8rHNtu1p7l6N8p-018-201" target="eP8rHNtu1p7l6N8p-018-204">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="2004" as="sourcePoint" />
+            <mxPoint x="685" y="1965" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
