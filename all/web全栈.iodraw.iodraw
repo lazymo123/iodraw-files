@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="110" width="1184" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-19" value="招聘管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="1097" height="99" as="geometry" />
+          <mxGeometry x="160" y="340" width="1097" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-20" value="员工信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2371" y="119" width="1310" height="99" as="geometry" />
@@ -35,22 +35,22 @@
           <mxGeometry x="3490" y="144" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-28" value="职位发布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="185" y="365" width="124" height="49" as="geometry" />
+          <mxGeometry x="195" y="365" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-29" value="简历管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="359" y="365" width="124" height="49" as="geometry" />
+          <mxGeometry x="369" y="365" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-30" value="简历筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="533" y="365" width="124" height="49" as="geometry" />
+          <mxGeometry x="543" y="365" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-31" value="面试流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="707" y="365" width="124" height="49" as="geometry" />
+          <mxGeometry x="717" y="365" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-32" value="面试评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="881" y="365" width="124" height="49" as="geometry" />
+          <mxGeometry x="891" y="365" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-33" value="招聘数据统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="365" width="157" height="49" as="geometry" />
+          <mxGeometry x="1065" y="365" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eP8rHNtu1p7l6N8p-018-34" value="排班规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="135" width="124" height="49" as="geometry" />
