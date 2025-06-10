@@ -384,8 +384,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-121" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1454.68" y="982.9999999999998" as="sourcePoint" />
+            <mxPoint x="1264.003529411765" y="1128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-120" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="1500" y="959" width="10" height="52" as="geometry" />
+          <mxGeometry x="1485" y="959" width="25" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
