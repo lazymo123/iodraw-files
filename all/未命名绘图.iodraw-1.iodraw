@@ -384,6 +384,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-122" value="获取考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="959" />
+            </Array>
+            <mxPoint x="1310" y="959" as="sourcePoint" />
+            <mxPoint x="1500" y="959" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
