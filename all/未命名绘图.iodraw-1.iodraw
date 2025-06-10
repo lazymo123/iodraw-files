@@ -40,7 +40,7 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-12" value="考试服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="609" y="317" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-13" value="监考服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-13" value="监考服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="261" y="317" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-14" value="成绩服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
