@@ -293,9 +293,6 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-102" value="考生数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1420" y="790" width="150" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-103" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-102">
-          <mxGeometry x="70" y="159" width="10" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-104" value="考试数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1620" y="790" width="150" height="680" as="geometry" />
         </mxCell>
@@ -321,18 +318,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-111" value="获取考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-103">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1406" y="949" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-112" value="返回考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-103" target="FjeHIOwrTNn0rj1Qxs_l-96">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-112" value="返回考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="FjeHIOwrTNn0rj1Qxs_l-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1407" y="1001" />
             </Array>
+            <mxPoint x="1294" y="1005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-113" value="获取考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-105">
