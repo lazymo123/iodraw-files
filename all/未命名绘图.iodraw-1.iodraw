@@ -326,11 +326,12 @@
             <mxPoint x="1294" y="1005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-113" value="获取考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-105">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-113" value="获取考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="FjeHIOwrTNn0rj1Qxs_l-105">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="1053" />
             </Array>
+            <mxPoint x="495" y="1053" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-115" value="获取试题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-107">
