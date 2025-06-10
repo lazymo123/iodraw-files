@@ -31,7 +31,7 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-9" value="Seata 分布式事务" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1638" y="476" width="184" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-10" value="用户服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-10" value="用户服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="783" y="317" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-11" value="题库服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
