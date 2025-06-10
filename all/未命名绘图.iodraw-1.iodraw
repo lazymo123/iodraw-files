@@ -379,7 +379,9 @@
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-96" target="FjeHIOwrTNn0rj1Qxs_l-97">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="613" y="1099" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
