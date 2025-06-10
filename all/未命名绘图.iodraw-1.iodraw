@@ -10,7 +10,7 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-2" value="业务微服务集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="292" width="1033" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-3" value="基础设施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-3" value="基础设施" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1073" y="169" width="784" height="391" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-4" value="客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
