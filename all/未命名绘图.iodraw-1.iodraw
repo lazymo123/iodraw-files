@@ -384,13 +384,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-122" value="获取考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-122" value="获取考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1245.68" y="946" />
+              <mxPoint x="1206.68" y="948" />
             </Array>
-            <mxPoint x="543" y="956" as="sourcePoint" />
-            <mxPoint x="1329.68" y="946" as="targetPoint" />
+            <mxPoint x="285.00352941176465" y="948" as="sourcePoint" />
+            <mxPoint x="1290.68" y="948" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
