@@ -267,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-94" value="考生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
-          <mxGeometry x="20" y="790" width="35" height="680" as="geometry" />
+          <mxGeometry x="295" y="786" width="35" height="680" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-96" value="考生数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="420" y="790" width="150" height="680" as="geometry" />
