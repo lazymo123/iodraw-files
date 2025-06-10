@@ -281,6 +281,13 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-105" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-97">
           <mxGeometry x="70" y="260" width="10" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="FjeHIOwrTNn0rj1Qxs_l-97" source="FjeHIOwrTNn0rj1Qxs_l-105" target="FjeHIOwrTNn0rj1Qxs_l-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="887" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-98" value="题库数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="820" y="790" width="150" height="680" as="geometry" />
         </mxCell>
@@ -330,13 +337,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1506" y="1053" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-105" target="FjeHIOwrTNn0rj1Qxs_l-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1507" y="1105" />
             </Array>
           </mxGeometry>
         </mxCell>
