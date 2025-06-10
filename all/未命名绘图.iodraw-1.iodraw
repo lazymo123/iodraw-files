@@ -19,7 +19,7 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-5" value="浏览器/App" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1413" y="45" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-6" value="API Gateway" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-6" value="API Gateway" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1410" y="194" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-7" value="Nacos 服务注册/配置中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
