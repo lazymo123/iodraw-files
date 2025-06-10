@@ -377,11 +377,13 @@
             <mxPoint x="1290.68" y="948" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-96" target="FjeHIOwrTNn0rj1Qxs_l-97">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1507" y="1105" />
+              <mxPoint x="671.68" y="1093" />
             </Array>
+            <mxPoint x="498.00352941176465" y="1114" as="sourcePoint" />
+            <mxPoint x="698.18" y="1114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
