@@ -266,6 +266,124 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-94" value="考生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="790" width="35" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-95" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-96" value="考生数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-97" value="考试数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-98" value="题库数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="820" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-99" value="监考数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-100" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-101" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-100">
+          <mxGeometry x="70" y="107" width="10" height="478" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-102" value="考生数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-103" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-102">
+          <mxGeometry x="70" y="159" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-104" value="考试数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-105" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-104">
+          <mxGeometry x="70" y="263" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-106" value="题库数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-107" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-106">
+          <mxGeometry x="70" y="367" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-108" value="监考数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="790" width="150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-109" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-108">
+          <mxGeometry x="70" y="471" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-110" value="请求进入考试" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-94" target="FjeHIOwrTNn0rj1Qxs_l-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-111" value="获取考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1406" y="949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-112" value="返回考生信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-103" target="FjeHIOwrTNn0rj1Qxs_l-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1407" y="1001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-113" value="获取考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1506" y="1053" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-114" value="返回考试详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-105" target="FjeHIOwrTNn0rj1Qxs_l-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1507" y="1105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-115" value="获取试题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1606" y="1157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-116" value="返回试题内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-107" target="FjeHIOwrTNn0rj1Qxs_l-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1607" y="1209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-117" value="获取监考安排" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1706" y="1261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-118" value="返回监考信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-109" target="FjeHIOwrTNn0rj1Qxs_l-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1707" y="1313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-119" value="提供考试界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FjeHIOwrTNn0rj1Qxs_l-101" target="FjeHIOwrTNn0rj1Qxs_l-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="1365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
