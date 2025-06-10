@@ -296,6 +296,11 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-104" value="考试数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1620" y="790" width="150" height="680" as="geometry" />
         </mxCell>
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-123" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="FjeHIOwrTNn0rj1Qxs_l-104" source="FjeHIOwrTNn0rj1Qxs_l-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-271" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-105" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="FjeHIOwrTNn0rj1Qxs_l-104">
           <mxGeometry x="70" y="263" width="10" height="52" as="geometry" />
         </mxCell>
