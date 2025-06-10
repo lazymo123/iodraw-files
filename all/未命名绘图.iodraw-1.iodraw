@@ -22,10 +22,10 @@
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-6" value="API Gateway" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1410" y="194" width="151" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-7" value="Nacos 服务注册/配置中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-7" value="Nacos 服务注册/配置中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1108" y="476" width="243" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-8" value="Sentinel 流量控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FjeHIOwrTNn0rj1Qxs_l-8" value="Sentinel 流量控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1401" y="476" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FjeHIOwrTNn0rj1Qxs_l-9" value="Seata 分布式事务" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
