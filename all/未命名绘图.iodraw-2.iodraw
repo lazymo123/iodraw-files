@@ -20,7 +20,7 @@
           <mxGeometry y="104.14814758300781" width="139" height="13" as="geometry" />
         </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-6" value="Student" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=27.142857142857142;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="137" height="95.14285714285714" as="geometry" />
+          <mxGeometry x="62" y="620" width="137" height="95.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-7" value="+String studentId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_HxBT2Nkzsqn5Fec9jdx-6">
           <mxGeometry y="27.142857142857142" width="137" height="27" as="geometry" />
