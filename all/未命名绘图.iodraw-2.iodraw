@@ -19,9 +19,6 @@
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_HxBT2Nkzsqn5Fec9jdx-1">
           <mxGeometry y="104.14814758300781" width="139" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="_HxBT2Nkzsqn5Fec9jdx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_HxBT2Nkzsqn5Fec9jdx-8" target="_HxBT2Nkzsqn5Fec9jdx-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-6" value="Student" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=27.142857142857142;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="452" y="755" width="137" height="95.14285714285714" as="geometry" />
         </mxCell>
@@ -225,6 +222,12 @@
         </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-109" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="1078" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_HxBT2Nkzsqn5Fec9jdx-110" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.018;exitY=-0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="251" y="977" as="sourcePoint" />
+            <mxPoint x="136" y="895" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
