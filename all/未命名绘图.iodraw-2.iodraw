@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-18" value="Exam" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.076923076923077;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="223.5" y="850.14" width="140" height="163.0769230769231" as="geometry" />
+          <mxGeometry x="223.5" y="848" width="140" height="163.0769230769231" as="geometry" />
         </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-19" value="+String examId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_HxBT2Nkzsqn5Fec9jdx-18">
           <mxGeometry y="25.076923076923077" width="140" height="25" as="geometry" />
