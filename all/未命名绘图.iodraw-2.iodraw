@@ -193,9 +193,6 @@
             <mxPoint x="640" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HxBT2Nkzsqn5Fec9jdx-105" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="868" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_HxBT2Nkzsqn5Fec9jdx-106" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="930" width="30" height="30" as="geometry" />
         </mxCell>
