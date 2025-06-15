@@ -85,6 +85,9 @@
         <mxCell id="R1WS1nrfSYPRDmn_i7wM-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R1WS1nrfSYPRDmn_i7wM-8">
           <mxGeometry x="70" y="650" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="R1WS1nrfSYPRDmn_i7wM-63" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R1WS1nrfSYPRDmn_i7wM-8">
+          <mxGeometry x="70" y="1040" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="R1WS1nrfSYPRDmn_i7wM-9" value="1. 访问考试列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="R1WS1nrfSYPRDmn_i7wM-1" target="R1WS1nrfSYPRDmn_i7wM-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
