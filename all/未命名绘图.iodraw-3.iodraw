@@ -13,8 +13,8 @@
         <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-3" value="用户界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-5" value="用户界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="120" height="50" as="geometry" />
+        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-5" value="状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
