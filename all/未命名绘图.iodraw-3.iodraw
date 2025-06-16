@@ -66,7 +66,7 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-62" value="教师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="308" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-63" value="查看成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcclNY3m8B38E2l8jbGh-63" value="创建考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
