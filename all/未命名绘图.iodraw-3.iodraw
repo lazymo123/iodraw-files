@@ -12,6 +12,9 @@
             <mxPoint x="575" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcclNY3m8B38E2l8jbGh-43" target="TcclNY3m8B38E2l8jbGh-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-43" value="用户登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="80" width="80" height="60" as="geometry" />
         </mxCell>
@@ -59,6 +62,9 @@
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-59" value="题库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="308" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
