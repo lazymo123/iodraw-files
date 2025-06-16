@@ -105,7 +105,7 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-79" value="题库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="490" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-81" value="创建考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcclNY3m8B38E2l8jbGh-81" value="删除用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-82" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
