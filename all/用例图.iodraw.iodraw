@@ -405,11 +405,14 @@
             <mxPoint x="1362" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7t2r3lL445Rc2IW1pUw8-102">
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7t2r3lL445Rc2IW1pUw8-102" target="7t2r3lL445Rc2IW1pUw8-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1312" y="409" as="sourcePoint" />
             <mxPoint x="1362" y="359" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-116" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="4714" y="354" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
