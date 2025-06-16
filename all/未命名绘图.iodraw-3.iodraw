@@ -43,7 +43,7 @@
         <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-17" value="JWT认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="830" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-18" value="JWT认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-18" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="960" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
