@@ -390,8 +390,14 @@
         <mxCell id="7t2r3lL445Rc2IW1pUw8-108" value="删除题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="416" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-110" value="删除题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-110" value="查询题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="536" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7t2r3lL445Rc2IW1pUw8-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1312" y="409" as="sourcePoint" />
+            <mxPoint x="1362" y="359" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
