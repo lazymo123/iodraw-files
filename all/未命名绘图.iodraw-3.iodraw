@@ -58,8 +58,8 @@
         <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-24" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="430" y="820" width="320" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="780" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
