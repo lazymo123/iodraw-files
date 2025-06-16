@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="440" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FcAZXP6dVBq0aLiGE3zf-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="FcAZXP6dVBq0aLiGE3zf-2">
-          <mxGeometry x="70" y="490" width="10" height="80" as="geometry" />
+          <mxGeometry x="70" y="490" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FcAZXP6dVBq0aLiGE3zf-3" value="考试控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="483" y="20" width="150" height="928" as="geometry" />
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="FcAZXP6dVBq0aLiGE3zf-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="623" y="-140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAZXP6dVBq0aLiGE3zf-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="733" y="-30" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
