@@ -120,6 +120,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FcAZXP6dVBq0aLiGE3zf-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAZXP6dVBq0aLiGE3zf-23" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FcAZXP6dVBq0aLiGE3zf-22" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
