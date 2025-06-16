@@ -60,9 +60,6 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-57" value="查看成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcclNY3m8B38E2l8jbGh-59" target="TcclNY3m8B38E2l8jbGh-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-59" value="题库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="490" width="80" height="40" as="geometry" />
         </mxCell>
@@ -106,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-79" value="题库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="220" y="490" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
