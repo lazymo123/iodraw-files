@@ -67,10 +67,10 @@
           <mxGeometry x="565" y="308" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-63" value="创建考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="615" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-66" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="590" width="200" height="10" as="geometry" />
+          <mxGeometry x="470" y="560" width="200" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
