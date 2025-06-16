@@ -215,7 +215,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fa9mGstvSe3fSIf-gwR6-59" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="Fa9mGstvSe3fSIf-gwR6-57">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="120" y="-40" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
