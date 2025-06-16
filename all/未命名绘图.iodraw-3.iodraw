@@ -72,8 +72,14 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-66" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-68" value="创建考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="600" width="80" height="40" as="geometry" />
+        <mxCell id="TcclNY3m8B38E2l8jbGh-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcclNY3m8B38E2l8jbGh-68" target="TcclNY3m8B38E2l8jbGh-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-68" value="添加题目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-70" value="添加题目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
