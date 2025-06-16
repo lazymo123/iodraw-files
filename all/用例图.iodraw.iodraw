@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="iH_XzHAR1N53I8Ym9vr2">
-    <mxGraphModel dx="1270" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7t2r3lL445Rc2IW1pUw8-1" value="学生用例" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="1128" height="247" as="geometry" />
+          <mxGeometry x="-10" y="70" width="1128" height="247" as="geometry" />
         </mxCell>
         <mxCell id="7t2r3lL445Rc2IW1pUw8-2" value="考试参与" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="7t2r3lL445Rc2IW1pUw8-1">
           <mxGeometry x="249" y="46" width="124" height="49" as="geometry" />
@@ -357,11 +357,8 @@
         <mxCell id="7t2r3lL445Rc2IW1pUw8-94" value="参加考试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="454" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="7t2r3lL445Rc2IW1pUw8-94">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="222" y="380" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-96" value="提交答案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="453" y="199" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
