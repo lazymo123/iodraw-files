@@ -348,10 +348,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7t2r3lL445Rc2IW1pUw8-77" target="7t2r3lL445Rc2IW1pUw8-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-77" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-77" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="430" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7t2r3lL445Rc2IW1pUw8-93" value="查看考试列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -362,9 +359,6 @@
         </mxCell>
         <mxCell id="7t2r3lL445Rc2IW1pUw8-96" value="提交答案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="580" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="570" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
