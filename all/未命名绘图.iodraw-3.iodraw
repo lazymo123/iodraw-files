@@ -46,6 +46,9 @@
         <mxCell id="b_pxcuJAknwOauvLrBBh-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R1WS1nrfSYPRDmn_i7wM-4">
           <mxGeometry x="70" y="1210" width="10" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="b_pxcuJAknwOauvLrBBh-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="R1WS1nrfSYPRDmn_i7wM-4">
+          <mxGeometry x="70" y="1270" width="10" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="R1WS1nrfSYPRDmn_i7wM-5" value="考试控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="820" y="20" width="150" height="1704" as="geometry" />
         </mxCell>
