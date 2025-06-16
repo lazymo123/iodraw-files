@@ -30,8 +30,14 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-46" value="学生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="138" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-49" value="考试列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="320" width="80" height="40" as="geometry" />
+        <mxCell id="TcclNY3m8B38E2l8jbGh-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcclNY3m8B38E2l8jbGh-49" target="TcclNY3m8B38E2l8jbGh-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-49" value="选择考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcclNY3m8B38E2l8jbGh-51" value="选择考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
