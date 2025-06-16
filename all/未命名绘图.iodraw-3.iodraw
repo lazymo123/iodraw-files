@@ -64,7 +64,7 @@
         <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-27" value="Redis缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="610" y="850" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dhSbX5wlqSJPHAtnZ7Hw-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dhSbX5wlqSJPHAtnZ7Hw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="850" as="sourcePoint" />
             <mxPoint x="520" y="800" as="targetPoint" />
