@@ -111,10 +111,10 @@
         <mxCell id="TcclNY3m8B38E2l8jbGh-82" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-83" value="添加题目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcclNY3m8B38E2l8jbGh-83" value="修改用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-84" value="创建题库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcclNY3m8B38E2l8jbGh-84" value="添加用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcclNY3m8B38E2l8jbGh-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TcclNY3m8B38E2l8jbGh-82">
