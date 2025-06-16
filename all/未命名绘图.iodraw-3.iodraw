@@ -96,7 +96,7 @@
             <mxPoint x="610" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcclNY3m8B38E2l8jbGh-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TcclNY3m8B38E2l8jbGh-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.388;entryY=-0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TcclNY3m8B38E2l8jbGh-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="550" as="sourcePoint" />
             <mxPoint x="610" y="500" as="targetPoint" />
