@@ -412,7 +412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7t2r3lL445Rc2IW1pUw8-116" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="4390" y="378" width="30" height="60" as="geometry" />
+          <mxGeometry x="4307" y="455" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7t2r3lL445Rc2IW1pUw8-117" value="添加用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4477" y="294" width="120" height="80" as="geometry" />
@@ -423,7 +423,7 @@
         <mxCell id="7t2r3lL445Rc2IW1pUw8-120" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4474" y="515" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7t2r3lL445Rc2IW1pUw8-122" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7t2r3lL445Rc2IW1pUw8-122" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4474" y="625" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
