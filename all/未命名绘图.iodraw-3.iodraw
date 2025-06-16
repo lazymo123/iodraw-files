@@ -302,11 +302,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R1WS1nrfSYPRDmn_i7wM-36" value="28. 显示考试结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="R1WS1nrfSYPRDmn_i7wM-5" target="R1WS1nrfSYPRDmn_i7wM-4" edge="1">
+        <mxCell id="R1WS1nrfSYPRDmn_i7wM-36" value="28. 显示考试结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="807" y="1619" />
+              <mxPoint x="1047" y="3413" />
             </Array>
+            <mxPoint x="1134.5" y="3413" as="sourcePoint" />
+            <mxPoint x="934.5" y="3413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R1WS1nrfSYPRDmn_i7wM-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -333,7 +335,7 @@
           <mxGeometry x="1130" y="1390" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b_pxcuJAknwOauvLrBBh-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="890" y="-70" width="10" height="80" as="geometry" />
+          <mxGeometry x="1130" y="1724" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
