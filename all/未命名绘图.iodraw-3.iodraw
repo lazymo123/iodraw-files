@@ -151,7 +151,7 @@
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-57" value="发送消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="786" y="728" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-59" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-59" value="接收消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792" y="825" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-60" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
