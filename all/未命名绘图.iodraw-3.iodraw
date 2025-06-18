@@ -179,7 +179,7 @@
           <mxGeometry x="268" y="1742" width="210" height="197" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-101" value="服务器端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1396" width="411" height="296" as="geometry" />
+          <mxGeometry x="160" y="1396" width="411" height="253" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-102" value="客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="1027" width="350" height="296" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="406" y="1421" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-109" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303" y="1618" width="140" height="49" as="geometry" />
+          <mxGeometry x="303" y="1577" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-110" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="303" y="1767" width="140" height="49" as="geometry" />
