@@ -58,8 +58,14 @@
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统通知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y5KHlPyDwJCX0HdsIA6v-22" target="Y5KHlPyDwJCX0HdsIA6v-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送消息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接收消息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
