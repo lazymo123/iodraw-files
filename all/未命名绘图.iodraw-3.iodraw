@@ -197,7 +197,7 @@
           <mxGeometry x="195" y="1421" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-107" value="控制器层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311" y="1519" width="124" height="49" as="geometry" />
+          <mxGeometry x="310.5" y="1498" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-108" value="Socket.io" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406" y="1421" width="126" height="49" as="geometry" />
