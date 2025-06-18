@@ -1310,8 +1310,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-417" value="" style="group;direction=south;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200.5" y="7072.5" width="911" height="548" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-417" value="" style="group;direction=west;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="382" y="6891" width="548" height="911" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-386" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-417">
           <mxGeometry x="138.21958456973292" width="11.382789317507418" height="12.41869522882181" as="geometry" />
