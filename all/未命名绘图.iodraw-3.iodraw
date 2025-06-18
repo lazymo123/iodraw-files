@@ -759,7 +759,7 @@
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-240" value="-int id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-239">
           <mxGeometry y="25.666668362087673" width="288" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-241" value="-string username" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-239">
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-241" value="-string username" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=1;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-239">
           <mxGeometry y="51.66666836208768" width="288" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-242" value="-string password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-239">
