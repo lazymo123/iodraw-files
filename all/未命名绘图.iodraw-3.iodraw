@@ -188,7 +188,7 @@
           <mxGeometry x="319" y="1052" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-104" value="HTML/CSS/JS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1151" width="156" height="49" as="geometry" />
+          <mxGeometry x="293.5" y="1190" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-105" value="AJAX/WebSocket" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="1268" width="183" height="49" as="geometry" />
@@ -251,17 +251,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-119" value="HTTP/AJAX" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Y5KHlPyDwJCX0HdsIA6v-105" target="Y5KHlPyDwJCX0HdsIA6v-106">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.3306" y="-7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="276" y="1323" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-120" value="WebSocket" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Y5KHlPyDwJCX0HdsIA6v-105" target="Y5KHlPyDwJCX0HdsIA6v-108">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1696" y="9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="1323" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
