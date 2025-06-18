@@ -561,38 +561,38 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-204" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-204" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="4174" width="171" height="982" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-184" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="39" width="92" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-184" value="开始" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="-427" y="467" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-185" value="输入消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="23" y="99" width="124" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-185" value="输入消息" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="-344" y="467" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-186" value="验证消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="23" y="220" width="124" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-186" value="验证消息" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="-223" y="467" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-187" value="WebSocket发送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry y="341" width="171" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-187" value="WebSocket发送" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="-125" y="467" width="171" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-188" value="服务器处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="15" y="440" width="140" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-188" value="服务器处理" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="-11" y="467" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-189" value="存储数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="15" y="539" width="140" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-189" value="存储数据库" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="88" y="467" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-190" value="广播消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="23" y="637" width="124" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-190" value="广播消息" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="194" y="467" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-191" value="客户端接收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="15" y="736" width="140" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-191" value="客户端接收" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="285" y="467" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-192" value="更新显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="23" y="835" width="124" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-192" value="更新显示" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="392" y="467" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-193" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
-          <mxGeometry x="39" y="933" width="92" height="49" as="geometry" />
+        <mxCell id="Y5KHlPyDwJCX0HdsIA6v-193" value="结束" style="whiteSpace=wrap;strokeWidth=2;rotation=-90;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-204">
+          <mxGeometry x="506" y="467" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-194" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="Y5KHlPyDwJCX0HdsIA6v-204" source="Y5KHlPyDwJCX0HdsIA6v-184" target="Y5KHlPyDwJCX0HdsIA6v-185">
           <mxGeometry relative="1" as="geometry">
@@ -602,7 +602,7 @@
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0.99;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="Y5KHlPyDwJCX0HdsIA6v-204" source="Y5KHlPyDwJCX0HdsIA6v-185" target="Y5KHlPyDwJCX0HdsIA6v-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="66" y="184" />
+              <mxPoint x="-221" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -614,7 +614,7 @@
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-197" value="无效" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.56;entryY=0.99;rounded=0;" edge="1" parent="Y5KHlPyDwJCX0HdsIA6v-204" source="Y5KHlPyDwJCX0HdsIA6v-186" target="Y5KHlPyDwJCX0HdsIA6v-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="104" y="184" />
+              <mxPoint x="-221" y="473" />
             </Array>
           </mxGeometry>
         </mxCell>
