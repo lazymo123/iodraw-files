@@ -182,7 +182,7 @@
           <mxGeometry x="160" y="1396" width="411" height="253" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-102" value="客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1027.5" width="350" height="296" as="geometry" />
+          <mxGeometry x="195" y="1052" width="350" height="296" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-103" value="浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="319" y="1052" width="108" height="49" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry x="295" y="1151" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-105" value="AJAX/WebSocket" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="281" y="1249" width="183" height="49" as="geometry" />
+          <mxGeometry x="280" y="1268" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-106" value="Express服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="1421" width="161" height="49" as="geometry" />
