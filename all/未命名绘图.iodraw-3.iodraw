@@ -907,7 +907,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-358" value="" style="group;direction=south;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="28.316665649414062" y="4964.683334350586" width="941.3666687011719" height="976" as="geometry" />
+          <mxGeometry x="-24.003334350585938" y="4901.003334350586" width="941.3666687011719" height="976" as="geometry" />
         </mxCell>
         <mxCell id="Y5KHlPyDwJCX0HdsIA6v-282" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24.916669209798176;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="Y5KHlPyDwJCX0HdsIA6v-358">
           <mxGeometry x="285" y="308" width="337" height="307.91666920979816" as="geometry" />
