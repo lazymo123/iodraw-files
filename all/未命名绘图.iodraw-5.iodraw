@@ -188,6 +188,12 @@
         <mxCell id="NZlIycztWkkLZuwulx-d-54" value="-recordLog() : : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NZlIycztWkkLZuwulx-d-49">
           <mxGeometry y="120.06666870117188" width="498" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="NZlIycztWkkLZuwulx-d-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="1020" as="sourcePoint" />
+            <mxPoint x="810" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
