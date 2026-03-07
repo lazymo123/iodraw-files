@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="53vZ4yEPyDlFco5JIEE1">
-    <mxGraphModel dx="807" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,14 +448,14 @@
             <mxPoint x="1567" y="2235" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-199" value="提取用户绑定权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-206" target="aBiT87Xcjv9sBpZ8hTXt-194">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-199" value="提取用户绑定权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-206" target="aBiT87Xcjv9sBpZ8hTXt-208">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1574" y="2287" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-200" value="返回角色归属" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-194" target="aBiT87Xcjv9sBpZ8hTXt-206">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-200" value="返回角色归属" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-208" target="aBiT87Xcjv9sBpZ8hTXt-206">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1577" y="2339" />
