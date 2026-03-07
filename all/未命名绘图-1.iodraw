@@ -135,8 +135,8 @@
         <mxCell id="s76-Thz-IRmyokv0UQXm-44" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="104.5" y="336" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="114.5" y="346" width="30" height="60" as="geometry" />
+        <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="104.5" y="527.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
