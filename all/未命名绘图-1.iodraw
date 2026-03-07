@@ -749,10 +749,7 @@
           <mxGeometry x="204" y="5166" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-297" value="归档新增状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="5345" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-298" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="93" y="5444" width="15" height="15" as="geometry" />
+          <mxGeometry x="22" y="5326" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-303" value="信息规范" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-291" target="aBiT87Xcjv9sBpZ8hTXt-292">
           <mxGeometry relative="1" as="geometry">
@@ -765,11 +762,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-308" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-295" target="aBiT87Xcjv9sBpZ8hTXt-297">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-310" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.47;entryY=-0.02;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-297" target="aBiT87Xcjv9sBpZ8hTXt-298">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
