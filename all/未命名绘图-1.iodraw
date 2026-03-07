@@ -23,7 +23,7 @@
           <mxGeometry x="-293" y="263" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-28" value="仪表盘统计" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="297" y="242" width="111" height="49" as="geometry" />
+          <mxGeometry x="252" y="166" width="111" height="49" as="geometry" />
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3333333333333333;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-22" edge="1" source="s76-Thz-IRmyokv0UQXm-42">
           <mxGeometry relative="1" as="geometry">
