@@ -886,7 +886,7 @@
           <mxGeometry x="2295" y="5583" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-346" value="包含需求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="634" y="6379" width="113" height="113" as="geometry" />
+          <mxGeometry x="631" y="6325" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-347" value="统筹" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="814" y="6129" width="113" height="113" as="geometry" />
@@ -983,13 +983,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2449" y="5639" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-370" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-331" target="aBiT87Xcjv9sBpZ8hTXt-346">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="880" y="6619" />
             </Array>
           </mxGeometry>
         </mxCell>
