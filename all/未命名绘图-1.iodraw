@@ -842,7 +842,7 @@
           <mxGeometry x="1448" y="6467" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-334" value="测试计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="6140" width="124" height="49" as="geometry" />
+          <mxGeometry x="881" y="6013" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-335" value="计划用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1779" y="6112" width="124" height="49" as="geometry" />
@@ -880,7 +880,7 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-346" value="包含需求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="911" y="6563" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-347" value="统筹计划" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-347" value="统筹" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="814" y="6129" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-348" value="归属" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
