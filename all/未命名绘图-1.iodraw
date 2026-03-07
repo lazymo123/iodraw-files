@@ -889,6 +889,11 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-410" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-340" target="aBiT87Xcjv9sBpZ8hTXt-333">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-411" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-410">
+          <mxGeometry x="-0.1523" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-340" value="创建用例" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="266" y="6080" width="113" height="113" as="geometry" />
         </mxCell>
@@ -923,6 +928,9 @@
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-348" value="归属" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2311" y="5745" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-349" target="aBiT87Xcjv9sBpZ8hTXt-333">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-349" value="衍生" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="433" y="6427" width="81" height="81" as="geometry" />
