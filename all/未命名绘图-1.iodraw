@@ -588,9 +588,15 @@
             <mxPoint x="2130" y="3200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-241" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-240">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-241" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-240">
           <mxGeometry x="-0.0112" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-242" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="3250" as="sourcePoint" />
+            <mxPoint x="2130" y="3200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
