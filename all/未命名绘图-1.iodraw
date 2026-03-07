@@ -404,6 +404,7 @@
             <Array as="points">
               <mxPoint x="1060" y="2079" />
             </Array>
+            <mxPoint x="902" y="2079" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-196" value="发送数据并校验" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-191" target="aBiT87Xcjv9sBpZ8hTXt-192">
