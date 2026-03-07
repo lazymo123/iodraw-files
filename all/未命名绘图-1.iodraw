@@ -832,6 +832,11 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-330" target="aBiT87Xcjv9sBpZ8hTXt-340">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-409" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-408">
+          <mxGeometry x="-0.1309" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-330" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="459" y="6013" width="92" height="49" as="geometry" />
         </mxCell>
@@ -853,7 +858,7 @@
           <mxGeometry x="427.5" y="6328" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-333" value="测试用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="6467" width="124" height="49" as="geometry" />
+          <mxGeometry x="1132" y="6525" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-334" value="测试计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="6015" width="124" height="49" as="geometry" />
