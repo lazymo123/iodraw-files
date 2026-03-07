@@ -854,7 +854,7 @@
           <mxGeometry x="2490" y="5688" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-338" value="负责" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="613" y="6178" width="81" height="81" as="geometry" />
+          <mxGeometry x="560" y="6090" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-339" value="创建需求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="911" y="6400" width="113" height="113" as="geometry" />
