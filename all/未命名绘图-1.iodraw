@@ -1140,6 +1140,12 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-348" value="归属" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="668" y="5646" width="81" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-429" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-331">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="6055" as="sourcePoint" />
+            <mxPoint x="765" y="6005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
