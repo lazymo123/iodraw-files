@@ -25,7 +25,7 @@
         <mxCell id="s76-Thz-IRmyokv0UQXm-28" value="仪表盘统计" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="285" y="237" width="111" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-22" edge="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3333333333333333;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-22" edge="1" source="s76-Thz-IRmyokv0UQXm-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="64" />
