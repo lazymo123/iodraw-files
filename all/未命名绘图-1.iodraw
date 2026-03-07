@@ -4,6 +4,127 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s76-Thz-IRmyokv0UQXm-19" value="fa:fa-user 管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="109" width="183" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-20" value="fa:fa-user 测试经理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="356" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-21" value="fa:fa-user 测试人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="533" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-22" value="用户管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="293" y="40" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-23" value="项目管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="293" y="139" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-24" value="需求管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="293" y="336" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-25" value="测试用例管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="277" y="435" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-26" value="测试计划与执行" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="269" y="533" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-27" value="缺陷管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="293" y="642" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-28" value="仪表盘统计" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="285" y="237" width="111" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-19" target="s76-Thz-IRmyokv0UQXm-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="64" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-19" target="s76-Thz-IRmyokv0UQXm-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.04;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-19" target="s76-Thz-IRmyokv0UQXm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.88;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.99;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-20" target="s76-Thz-IRmyokv0UQXm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.01;entryX=0.13;entryY=0.99;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.17;entryY=1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0.07;entryY=1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
