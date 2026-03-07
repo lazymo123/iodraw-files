@@ -858,7 +858,7 @@
           <mxGeometry x="427.5" y="6328" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-333" value="测试用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="668" y="6557" width="124" height="49" as="geometry" />
+          <mxGeometry x="260.5" y="6274" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-334" value="测试计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="6015" width="124" height="49" as="geometry" />
@@ -885,6 +885,9 @@
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-339" value="创建需求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="417" y="6161" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-410" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-340" target="aBiT87Xcjv9sBpZ8hTXt-333">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-340" value="创建用例" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="266" y="6080" width="113" height="113" as="geometry" />
