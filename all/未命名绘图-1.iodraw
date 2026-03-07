@@ -354,19 +354,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-146" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-138">
           <mxGeometry y="199.50980332318474" width="144" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-147" value="拥有/负责" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-90" target="aBiT87Xcjv9sBpZ8hTXt-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="851" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-148" value="1" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=right;verticalAlign=top;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-147">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-149" value="*" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=left;verticalAlign=bottom;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-147">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-150" value="包含架构所需范围" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-98" target="aBiT87Xcjv9sBpZ8hTXt-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
