@@ -594,6 +594,115 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-247" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="2104" y="3468" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-249" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2554" y="3519" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-250" value="填写异常表单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2498" y="3584" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-251" value="提交故障信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2432" y="3683" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-252" value="校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2505" y="3781" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-253" value="流转至开发环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2475" y="3967" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-254" value="复核验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2433" y="4065" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-255" value="发布缺陷闭环通知" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2378" y="4251" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-256" value="录入系统质控单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2386" y="4349" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-257" value="重新打回修复阶段" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2586" y="4251" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-258" value="归档流转记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2379" y="4448" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-259" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="4547" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-260" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-249" target="aBiT87Xcjv9sBpZ8hTXt-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-261" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-250" target="aBiT87Xcjv9sBpZ8hTXt-251">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2495" y="3658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-251" target="aBiT87Xcjv9sBpZ8hTXt-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2495" y="3756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-263" value="信息有误" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.76;entryY=0.99;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-252" target="aBiT87Xcjv9sBpZ8hTXt-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2627" y="3756" />
+              <mxPoint x="2627" y="3658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-264" value="信息规范" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-252" target="aBiT87Xcjv9sBpZ8hTXt-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-265" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-253" target="aBiT87Xcjv9sBpZ8hTXt-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2489" y="4040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-266" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-254" target="aBiT87Xcjv9sBpZ8hTXt-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2457" y="4214" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-267" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-255" target="aBiT87Xcjv9sBpZ8hTXt-256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-268" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.95;entryX=0.32;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-254" target="aBiT87Xcjv9sBpZ8hTXt-257">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2593" y="4214" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-269" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-256" target="aBiT87Xcjv9sBpZ8hTXt-258">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-270" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0.86;entryY=0.99;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-257" target="aBiT87Xcjv9sBpZ8hTXt-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2688" y="4214" />
+              <mxPoint x="2688" y="4040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-271" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.47;entryY=-0.02;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-258" target="aBiT87Xcjv9sBpZ8hTXt-259">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
