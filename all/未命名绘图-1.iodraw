@@ -839,7 +839,7 @@
           <mxGeometry x="668" y="6161" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-332" value="需求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="6483" width="92" height="49" as="geometry" />
+          <mxGeometry x="453" y="6343" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-333" value="测试用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="6467" width="124" height="49" as="geometry" />
@@ -986,13 +986,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2449" y="5639" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-371" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.04;entryY=0.99;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-346" target="aBiT87Xcjv9sBpZ8hTXt-332">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1055" y="6619" />
             </Array>
           </mxGeometry>
         </mxCell>
