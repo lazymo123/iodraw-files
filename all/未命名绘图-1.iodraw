@@ -594,7 +594,7 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-247" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="2104" y="3468" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-250" value="填写异常表单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-250" value="填写缺陷表单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2498" y="3584" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-251" value="提交缺陷信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
