@@ -11,7 +11,7 @@
           <mxGeometry x="69" y="-40" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-24" value="需求管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="293" y="336" width="94" height="49" as="geometry" />
+          <mxGeometry x="-88" y="-64" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-25" value="测试用例管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="277" y="435" width="126" height="49" as="geometry" />
