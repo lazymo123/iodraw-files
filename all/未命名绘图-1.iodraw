@@ -832,6 +832,9 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-330" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="459" y="6013" width="92" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-331" target="aBiT87Xcjv9sBpZ8hTXt-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-331" value="项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="668" y="6161" width="92" height="49" as="geometry" />
         </mxCell>
@@ -886,7 +889,7 @@
           <mxGeometry x="2295" y="5583" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-346" value="包含需求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="631" y="6325" width="113" height="113" as="geometry" />
+          <mxGeometry x="646" y="6306" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-347" value="统筹" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="814" y="6129" width="113" height="113" as="geometry" />
