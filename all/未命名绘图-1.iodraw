@@ -100,7 +100,13 @@
             <mxPoint x="23" y="86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-42" target="s76-Thz-IRmyokv0UQXm-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-27" y="136" as="sourcePoint" />
+            <mxPoint x="23" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-27" y="136" as="sourcePoint" />
             <mxPoint x="23" y="86" as="targetPoint" />
