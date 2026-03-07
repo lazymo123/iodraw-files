@@ -485,13 +485,13 @@
           <mxGeometry x="1992" y="2712" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-212" value="校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2063" y="2781" width="113" height="113" as="geometry" />
+          <mxGeometry x="2062.5" y="2775" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-213" value="下发测试任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2041" y="2997" width="156" height="49" as="geometry" />
+          <mxGeometry x="2041" y="2933" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-214" value="执行用例" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2063" y="3074" width="113" height="113" as="geometry" />
+          <mxGeometry x="2063" y="3016" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-215" value="发布执行进度通知" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1956" y="3301" width="158" height="49" as="geometry" />
