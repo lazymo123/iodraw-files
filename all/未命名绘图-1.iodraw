@@ -1,31 +1,31 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="53vZ4yEPyDlFco5JIEE1">
-    <mxGraphModel dx="1221" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s76-Thz-IRmyokv0UQXm-22" value="用户管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-22" value="用户管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="293" y="40" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-23" value="项目管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-23" value="项目管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="293" y="139" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-24" value="需求管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-24" value="需求管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="293" y="336" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-25" value="测试用例管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-25" value="测试用例管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="277" y="435" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-26" value="测试计划与执行" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-26" value="测试计划与执行" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="269" y="533" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-27" value="缺陷管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-27" value="缺陷管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="293" y="642" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-28" value="仪表盘统计" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-28" value="仪表盘统计" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="285" y="237" width="111" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-22">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="64" />
@@ -33,7 +33,7 @@
             <mxPoint x="164.3163265306123" y="109" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-30" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-42" target="s76-Thz-IRmyokv0UQXm-23">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-30" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.2;rounded=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-42" target="s76-Thz-IRmyokv0UQXm-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="134" />
@@ -41,7 +41,7 @@
             <mxPoint x="211" y="133.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.04;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-28">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.04;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="222" />
@@ -49,7 +49,7 @@
             <mxPoint x="154.26999999999998" y="158" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.88;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-23">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.88;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="202" />
@@ -57,7 +57,7 @@
             <mxPoint x="137.41000000000008" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-33" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-24">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-33" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="360" />
@@ -65,7 +65,7 @@
             <mxPoint x="219" y="364.33000000000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-34" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-25">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-34" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.1;rounded=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="430" />
@@ -73,7 +73,7 @@
             <mxPoint x="182.44897959183686" y="405" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-26">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.06;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="528" />
@@ -81,7 +81,7 @@
             <mxPoint x="139.80612244897975" y="405" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.99;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-27">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.99;entryX=0;entryY=0.1;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="627" />
@@ -89,7 +89,7 @@
             <mxPoint x="131.6836734693877" y="405" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-28">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="262" />
@@ -97,7 +97,7 @@
             <mxPoint x="145.3699999999999" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-38" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.13;entryY=0.99;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-45" target="s76-Thz-IRmyokv0UQXm-25">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-38" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.13;entryY=0.99;rounded=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-45" target="s76-Thz-IRmyokv0UQXm-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="508" />
@@ -105,7 +105,7 @@
             <mxPoint x="182.44897959183686" y="533" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-39" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.17;entryY=1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-45" target="s76-Thz-IRmyokv0UQXm-26">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-39" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.17;entryY=1;rounded=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-45" target="s76-Thz-IRmyokv0UQXm-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="607" />
@@ -113,7 +113,7 @@
             <mxPoint x="150" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-27">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.6;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="676" />
@@ -121,7 +121,7 @@
             <mxPoint x="145.3699999999999" y="582" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0.07;entryY=1;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-28">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0.07;entryY=1;rounded=0;" parent="1" target="s76-Thz-IRmyokv0UQXm-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="311" />
@@ -129,13 +129,13 @@
             <mxPoint x="131.6836734693877" y="533" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="89" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-44" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-44" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="104.5" y="336" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="104.5" y="527.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
