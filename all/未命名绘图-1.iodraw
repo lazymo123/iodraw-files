@@ -494,7 +494,7 @@
           <mxGeometry x="2063" y="3016" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-215" value="发布执行进度通知" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1956" y="3301" width="158" height="49" as="geometry" />
+          <mxGeometry x="1960" y="3201" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-216" value="录入测试库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1980" y="3399" width="110" height="49" as="geometry" />
@@ -578,6 +578,9 @@
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-238" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
           <mxGeometry x="2052" y="3149" width="143" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-214" target="aBiT87Xcjv9sBpZ8hTXt-238">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
