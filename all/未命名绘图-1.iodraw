@@ -131,10 +131,10 @@
         <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="104.5" y="527.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="155" as="sourcePoint" />
-            <mxPoint x="215" y="105" as="targetPoint" />
+            <mxPoint x="2" y="102" as="sourcePoint" />
+            <mxPoint x="52" y="52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
