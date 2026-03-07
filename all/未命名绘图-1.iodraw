@@ -748,6 +748,9 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-296" value="重新补充依赖逻辑" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="204" y="5166" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-297" target="aBiT87Xcjv9sBpZ8hTXt-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-297" value="归档新增状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="5326" width="156" height="49" as="geometry" />
         </mxCell>
@@ -822,6 +825,9 @@
           <mxGeometry x="-0.1977" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-328" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="85" y="5401" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
