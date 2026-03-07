@@ -740,7 +740,7 @@
           <mxGeometry x="21" y="5166" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-295" value="落库执行资产" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="36" y="5308" width="126" height="49" as="geometry" />
+          <mxGeometry x="37" y="5246" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-296" target="aBiT87Xcjv9sBpZ8hTXt-292">
           <mxGeometry relative="1" as="geometry" />
@@ -749,10 +749,10 @@
           <mxGeometry x="204" y="5166" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-297" value="归档新增状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="21" y="5407" width="156" height="49" as="geometry" />
+          <mxGeometry x="22" y="5345" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-298" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="92" y="5506" width="15" height="15" as="geometry" />
+          <mxGeometry x="93" y="5444" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-303" value="信息规范" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-291" target="aBiT87Xcjv9sBpZ8hTXt-292">
           <mxGeometry relative="1" as="geometry">
@@ -826,7 +826,7 @@
             <mxPoint x="202" y="5012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-327" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-324">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-327" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-324">
           <mxGeometry x="-0.1977" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
