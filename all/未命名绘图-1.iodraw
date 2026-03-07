@@ -698,6 +698,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2562" y="3755" as="sourcePoint" />
             <mxPoint x="2612" y="3705" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2673" y="3701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-276" value="信息有误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-275">
+          <mxGeometry x="0.1712" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
