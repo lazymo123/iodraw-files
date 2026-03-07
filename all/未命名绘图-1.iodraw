@@ -279,6 +279,9 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-117" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-111">
           <mxGeometry y="150.0769230769231" width="162" height="13" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-118" target="aBiT87Xcjv9sBpZ8hTXt-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-118" value="TestPlan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.515153364701703;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-275" y="1485" width="125" height="142.5151533647017" as="geometry" />
         </mxCell>
@@ -325,7 +328,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-131" value="TestResult" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.076923076923077;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="48" y="2268" width="156" height="163.0769230769231" as="geometry" />
+          <mxGeometry x="-290.5" y="1869" width="156" height="163.0769230769231" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-132" value="-Long id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-131">
           <mxGeometry y="25.076923076923077" width="156" height="25" as="geometry" />
