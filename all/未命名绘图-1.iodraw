@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s76-Thz-IRmyokv0UQXm-21" value="fa:fa-user 测试人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="533" width="199" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-22" value="用户管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="293" y="40" width="94" height="49" as="geometry" />
         </mxCell>
@@ -100,32 +97,36 @@
             <mxPoint x="145.3699999999999" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.01;entryX=0.13;entryY=0.99;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-25">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.01;entryX=0.13;entryY=0.99;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="508" />
             </Array>
+            <mxPoint x="182.44897959183686" y="533" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.17;entryY=1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-26">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.17;entryY=1;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="607" />
             </Array>
+            <mxPoint x="181.19000000000005" y="582" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-27">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="676" />
             </Array>
+            <mxPoint x="145.3699999999999" y="582" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0.07;entryY=1;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-21" target="s76-Thz-IRmyokv0UQXm-28">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0.07;entryY=1;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="311" />
             </Array>
+            <mxPoint x="131.6836734693877" y="533" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -133,6 +134,9 @@
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-44" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="104.5" y="336" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-45" value="测试经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="346" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
