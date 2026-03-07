@@ -912,7 +912,7 @@
           <mxGeometry x="650" y="5983" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-342" value="指派" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1635" y="5924" width="81" height="81" as="geometry" />
+          <mxGeometry x="1165" y="5913" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-343" value="执行" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1965" y="5848" width="81" height="81" as="geometry" />
