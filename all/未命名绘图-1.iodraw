@@ -582,6 +582,12 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-214" target="aBiT87Xcjv9sBpZ8hTXt-238">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-240" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="3250" as="sourcePoint" />
+            <mxPoint x="2130" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
