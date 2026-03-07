@@ -716,7 +716,7 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-289" value="填写业务需求" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="140" y="4543" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-290" value="提交拆解信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-290" value="提交信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="74" y="4642" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-291" value="校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -815,11 +815,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-311" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="241" y="4568" width="30" height="30" as="geometry" />
+          <mxGeometry x="188" y="4453" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-312" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aBiT87Xcjv9sBpZ8hTXt-311" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="256" y="4658" as="targetPoint" />
+            <mxPoint x="203" y="4543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
