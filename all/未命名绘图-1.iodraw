@@ -399,7 +399,7 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-194" value="角色权限" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1698" y="1972" width="150" height="576" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-195" value="提交登录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="aBiT87Xcjv9sBpZ8hTXt-191">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-195" value="提交登录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-203" target="aBiT87Xcjv9sBpZ8hTXt-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1060" y="2079" />
