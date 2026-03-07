@@ -262,7 +262,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-111" value="TestCase" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.076923076923077;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="142" y="1789" width="162" height="163.0769230769231" as="geometry" />
+          <mxGeometry x="42" y="1673" width="162" height="163.0769230769231" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-112" value="-Long id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-111">
           <mxGeometry y="25.076923076923077" width="162" height="25" as="geometry" />
