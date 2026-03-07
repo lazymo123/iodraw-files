@@ -437,11 +437,12 @@
             <mxPoint x="1568" y="2183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-198" value="返回核对信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-193" target="aBiT87Xcjv9sBpZ8hTXt-206">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-198" value="返回核对信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="aBiT87Xcjv9sBpZ8hTXt-206">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1477" y="2235" />
             </Array>
+            <mxPoint x="1567" y="2235" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-199" value="提取用户绑定权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-206" target="aBiT87Xcjv9sBpZ8hTXt-194">
