@@ -1080,11 +1080,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-491" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0.32;entryY=0.99;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-481" target="aBiT87Xcjv9sBpZ8hTXt-475">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-491" value="n" style="curved=1;startArrow=none;endArrow=block;entryX=0.32;entryY=0.99;rounded=0;" edge="1" parent="1" target="aBiT87Xcjv9sBpZ8hTXt-475">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1807" y="6733" />
             </Array>
+            <mxPoint x="1775" y="6733" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
