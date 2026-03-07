@@ -743,7 +743,7 @@
           <mxGeometry x="36" y="5308" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-296" value="重新补充依赖逻辑" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="228" y="5210" width="158" height="49" as="geometry" />
+          <mxGeometry x="229" y="5210" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-297" value="归档新增状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="21" y="5407" width="156" height="49" as="geometry" />
@@ -764,14 +764,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-308" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-295" target="aBiT87Xcjv9sBpZ8hTXt-297">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-309" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=-0.01;entryX=0.89;entryY=0.99;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-296" target="aBiT87Xcjv9sBpZ8hTXt-292">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="338" y="5173" />
-              <mxPoint x="338" y="4999" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-310" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.47;entryY=-0.02;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-297" target="aBiT87Xcjv9sBpZ8hTXt-298">
@@ -804,6 +796,9 @@
             <mxPoint x="209" y="4933" as="sourcePoint" />
             <mxPoint x="160" y="4970" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-320" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="228" y="5070" width="40" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
