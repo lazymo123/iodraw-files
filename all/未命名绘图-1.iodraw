@@ -863,7 +863,7 @@
           <mxGeometry x="1273" y="6281" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-341" value="创建计划" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="911" y="5999" width="113" height="113" as="geometry" />
+          <mxGeometry x="650" y="5983" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-342" value="指派" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1635" y="5924" width="81" height="81" as="geometry" />
@@ -1114,6 +1114,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="605" y="6142" as="sourcePoint" />
             <mxPoint x="658" y="6189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-390" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-387">
+          <mxGeometry x="-0.0823" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
