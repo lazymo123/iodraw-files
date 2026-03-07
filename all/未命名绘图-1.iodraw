@@ -466,6 +466,9 @@
             <mxPoint x="909" y="2443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-206" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="891.5" y="2073" width="10" height="392" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
