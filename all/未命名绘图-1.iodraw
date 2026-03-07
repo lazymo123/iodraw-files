@@ -39,7 +39,7 @@
             <mxPoint x="164.3163265306123" y="109" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" target="s76-Thz-IRmyokv0UQXm-23">
+        <mxCell id="s76-Thz-IRmyokv0UQXm-30" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-42" target="s76-Thz-IRmyokv0UQXm-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="134" />
@@ -124,6 +124,9 @@
               <mxPoint x="244" y="311" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s76-Thz-IRmyokv0UQXm-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="89" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
