@@ -624,12 +624,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-259" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2450" y="4547" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-260" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="aBiT87Xcjv9sBpZ8hTXt-250">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2561.5000000000005" y="3534" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-261" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-250" target="aBiT87Xcjv9sBpZ8hTXt-251">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -699,6 +693,14 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-271" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.47;entryY=-0.02;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-258" target="aBiT87Xcjv9sBpZ8hTXt-259">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-272" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2546" y="3494" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-273" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="aBiT87Xcjv9sBpZ8hTXt-272" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2561" y="3584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
