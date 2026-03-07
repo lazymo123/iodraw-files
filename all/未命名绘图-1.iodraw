@@ -709,6 +709,17 @@
             <mxPoint x="2654" y="4091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-283" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBiT87Xcjv9sBpZ8hTXt-282">
+          <mxGeometry x="-0.2187" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-284" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2604" y="4141" as="sourcePoint" />
+            <mxPoint x="2654" y="4091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
