@@ -186,6 +186,9 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-90" target="aBiT87Xcjv9sBpZ8hTXt-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-90" target="aBiT87Xcjv9sBpZ8hTXt-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-90" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24.755556233723958;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="204" y="623" width="140" height="186.75555623372395" as="geometry" />
         </mxCell>
@@ -382,20 +385,6 @@
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-146" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-138">
           <mxGeometry y="199.50980332318474" width="144" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-171" value="提报建立并指派流转" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.75;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-90" target="aBiT87Xcjv9sBpZ8hTXt-138">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464" y="851" />
-              <mxPoint x="464" y="2027" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-172" value="1" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=right;verticalAlign=top;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-171">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-173" value="*" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=left;verticalAlign=bottom;" vertex="1" parent="aBiT87Xcjv9sBpZ8hTXt-171">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
