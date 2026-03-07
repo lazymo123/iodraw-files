@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="53vZ4yEPyDlFco5JIEE1">
-    <mxGraphModel dx="2278" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,73 +382,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-190" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
-          <mxGeometry x="541" y="2053" width="35" height="576" as="geometry" />
+          <mxGeometry x="869" y="1972" width="35" height="576" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-191" value="登录界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="755" y="2053" width="150" height="576" as="geometry" />
+          <mxGeometry x="1083" y="1972" width="150" height="576" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-192" value="AuthController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="955" y="2053" width="150" height="576" as="geometry" />
+          <mxGeometry x="1283" y="1972" width="150" height="576" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-193" value="账户信息" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="2053" width="150" height="576" as="geometry" />
+          <mxGeometry x="1498" y="1972" width="150" height="576" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-194" value="角色权限" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="2053" width="150" height="576" as="geometry" />
+          <mxGeometry x="1698" y="1972" width="150" height="576" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-195" value="提交登录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-190" target="aBiT87Xcjv9sBpZ8hTXt-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="732" y="2160" />
+              <mxPoint x="1060" y="2079" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-196" value="发送数据并校验" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-191" target="aBiT87Xcjv9sBpZ8hTXt-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="939" y="2212" />
+              <mxPoint x="1267" y="2131" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-197" value="获取账户状态与密文" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-192" target="aBiT87Xcjv9sBpZ8hTXt-193">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1146" y="2264" />
+              <mxPoint x="1474" y="2183" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-198" value="返回核对信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-193" target="aBiT87Xcjv9sBpZ8hTXt-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1149" y="2316" />
+              <mxPoint x="1477" y="2235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-199" value="提取用户绑定权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-192" target="aBiT87Xcjv9sBpZ8hTXt-194">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1246" y="2368" />
+              <mxPoint x="1574" y="2287" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-200" value="返回角色归属" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-194" target="aBiT87Xcjv9sBpZ8hTXt-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1249" y="2420" />
+              <mxPoint x="1577" y="2339" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-201" value="审核通过签发凭证" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-192" target="aBiT87Xcjv9sBpZ8hTXt-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="942" y="2472" />
+              <mxPoint x="1270" y="2391" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-202" value="返回登录结果并放行" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-191" target="aBiT87Xcjv9sBpZ8hTXt-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="2524" />
+              <mxPoint x="1063" y="2443" />
             </Array>
           </mxGeometry>
         </mxCell>
