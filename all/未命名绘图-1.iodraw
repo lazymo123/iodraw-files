@@ -950,7 +950,7 @@
           <mxGeometry x="94.5" y="6258" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-352" value="产出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="6074" width="81" height="81" as="geometry" />
+          <mxGeometry x="204" y="5760" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-353" value="转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2311" y="6013" width="81" height="81" as="geometry" />
