@@ -867,7 +867,7 @@
           <mxGeometry x="805" y="6015" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-335" value="计划用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1779" y="6112" width="124" height="49" as="geometry" />
+          <mxGeometry x="1346" y="6053" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-336" value="测试结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2108" y="6029" width="124" height="49" as="geometry" />
