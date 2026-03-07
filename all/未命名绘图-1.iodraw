@@ -844,7 +844,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-430" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-331" target="aBiT87Xcjv9sBpZ8hTXt-348">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="737" y="6230" />
+              <mxPoint x="1148" y="6230" />
+              <mxPoint x="1148" y="5944" />
+              <mxPoint x="729" y="5944" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-331" value="项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="668" y="6161" width="92" height="49" as="geometry" />
