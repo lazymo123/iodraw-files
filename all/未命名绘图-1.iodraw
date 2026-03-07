@@ -839,7 +839,7 @@
           <mxGeometry x="668" y="6161" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-332" value="需求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="453" y="6343" width="92" height="49" as="geometry" />
+          <mxGeometry x="427.5" y="6328" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-333" value="测试用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="6467" width="124" height="49" as="geometry" />
@@ -911,13 +911,6 @@
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-353" value="转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2311" y="6013" width="81" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-357" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-339" target="aBiT87Xcjv9sBpZ8hTXt-332">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1055" y="6456" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-358" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-330" target="aBiT87Xcjv9sBpZ8hTXt-340">
           <mxGeometry relative="1" as="geometry">
