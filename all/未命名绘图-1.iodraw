@@ -862,7 +862,7 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-340" value="创建用例" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1273" y="6281" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-341" value="创建计划" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-341" value="创建" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="650" y="5983" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-342" value="指派" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
