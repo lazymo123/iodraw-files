@@ -449,11 +449,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-202" value="返回登录结果并放行" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-191" target="aBiT87Xcjv9sBpZ8hTXt-190">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-202" value="返回登录结果并放行" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-191" target="aBiT87Xcjv9sBpZ8hTXt-203">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1063" y="2443" />
             </Array>
+            <mxPoint x="909" y="2443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
