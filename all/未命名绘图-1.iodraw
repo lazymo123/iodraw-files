@@ -701,7 +701,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-277" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.287;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-251" target="aBiT87Xcjv9sBpZ8hTXt-252">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2562" y="3755" as="sourcePoint" />
             <mxPoint x="2612" y="3705" as="targetPoint" />
