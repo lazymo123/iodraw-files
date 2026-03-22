@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XLv0QCleaOClPh0ZLQsG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-23" target="XLv0QCleaOClPh0ZLQsG-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-23" value="项目管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="69" y="-40" width="94" height="49" as="geometry" />
         </mxCell>
@@ -1091,9 +1088,6 @@
         </mxCell>
         <mxCell id="XLv0QCleaOClPh0ZLQsG-2" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="-40" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="XLv0QCleaOClPh0ZLQsG-3" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="-184.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
