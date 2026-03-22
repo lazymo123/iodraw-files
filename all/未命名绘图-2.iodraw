@@ -1086,8 +1086,8 @@
         <mxCell id="XLv0QCleaOClPh0ZLQsG-9" value="测试计划与执行" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-95" y="259" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="XLv0QCleaOClPh0ZLQsG-10" value="需求管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="285" width="120" height="55" as="geometry" />
+        <mxCell id="XLv0QCleaOClPh0ZLQsG-10" value="测试用例管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="286" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
