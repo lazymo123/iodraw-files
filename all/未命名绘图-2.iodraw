@@ -10,9 +10,6 @@
         <mxCell id="s76-Thz-IRmyokv0UQXm-26" value="测试计划与执行" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-107" y="263" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s76-Thz-IRmyokv0UQXm-27" value="缺陷管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="-293" y="263" width="94" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="89" width="30" height="60" as="geometry" />
         </mxCell>
@@ -40,16 +37,16 @@
             <mxPoint x="-17.5" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-27" edge="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-166" y="228" as="sourcePoint" />
-            <mxPoint x="-116" y="178" as="targetPoint" />
+            <mxPoint x="-199" y="275.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.668;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-45" target="s76-Thz-IRmyokv0UQXm-27" edge="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.668;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-18" y="139" as="sourcePoint" />
-            <mxPoint x="-194" y="295" as="targetPoint" />
+            <mxPoint x="-230.20800000000008" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-26" edge="1">
@@ -1089,8 +1086,8 @@
         <mxCell id="XLv0QCleaOClPh0ZLQsG-7" value="仪表盘统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-265.5" y="-45" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="XLv0QCleaOClPh0ZLQsG-8" value="需求管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-362" y="188" width="120" height="55" as="geometry" />
+        <mxCell id="XLv0QCleaOClPh0ZLQsG-8" value="缺陷管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-308" y="263" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
