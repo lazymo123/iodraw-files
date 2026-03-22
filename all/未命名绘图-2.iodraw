@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s76-Thz-IRmyokv0UQXm-22" value="用户管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="229" y="-33" width="94" height="49" as="geometry" />
+        <mxCell id="XLv0QCleaOClPh0ZLQsG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s76-Thz-IRmyokv0UQXm-23" target="XLv0QCleaOClPh0ZLQsG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s76-Thz-IRmyokv0UQXm-23" value="项目管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="69" y="-40" width="94" height="49" as="geometry" />
@@ -88,10 +88,10 @@
             <mxPoint x="-36" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-42" target="s76-Thz-IRmyokv0UQXm-22" edge="1">
+        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-27" y="136" as="sourcePoint" />
-            <mxPoint x="23" y="86" as="targetPoint" />
+            <mxPoint x="252.5" y="16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s76-Thz-IRmyokv0UQXm-44" target="s76-Thz-IRmyokv0UQXm-28" edge="1">
@@ -1090,7 +1090,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XLv0QCleaOClPh0ZLQsG-2" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="41" width="120" height="80" as="geometry" />
+          <mxGeometry x="211" y="-40" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XLv0QCleaOClPh0ZLQsG-3" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="-184.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
