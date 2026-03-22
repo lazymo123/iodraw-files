@@ -1089,7 +1089,7 @@
             <mxPoint x="1775" y="6733" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XLv0QCleaOClPh0ZLQsG-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XLv0QCleaOClPh0ZLQsG-2" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="41" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
