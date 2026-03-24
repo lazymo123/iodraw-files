@@ -842,11 +842,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-463" value="指派" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="542" y="6254" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-464" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-456" target="aBiT87Xcjv9sBpZ8hTXt-460" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-465" value="0..1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.32;entryY=-0.01;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-460" target="aBiT87Xcjv9sBpZ8hTXt-457" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1104,6 +1099,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="273" y="5906" as="sourcePoint" />
             <mxPoint x="323" y="5856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdQAqg3cZjYKuO-q_LsN-28" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UdQAqg3cZjYKuO-q_LsN-27">
+          <mxGeometry x="-0.0308" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdQAqg3cZjYKuO-q_LsN-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="6146" as="sourcePoint" />
+            <mxPoint x="723" y="6096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
