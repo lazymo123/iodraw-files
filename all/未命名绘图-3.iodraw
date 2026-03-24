@@ -818,13 +818,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-449" value="衍生" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="338.5" y="5760" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-450" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-443" target="aBiT87Xcjv9sBpZ8hTXt-447" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-22.5" y="5801" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-451" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-447" target="aBiT87Xcjv9sBpZ8hTXt-444" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
