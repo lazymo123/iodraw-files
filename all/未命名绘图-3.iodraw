@@ -797,13 +797,6 @@
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-438" value="创建" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="657" y="5582" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="aBiT87Xcjv9sBpZ8hTXt-439" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-434" target="aBiT87Xcjv9sBpZ8hTXt-437" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="626" y="5491" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-440" value="n" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-437" target="aBiT87Xcjv9sBpZ8hTXt-435" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
