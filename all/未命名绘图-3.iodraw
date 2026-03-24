@@ -91,6 +91,12 @@
             <mxPoint x="-169.75" y="2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UdQAqg3cZjYKuO-q_LsN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-75" target="aBiT87Xcjv9sBpZ8hTXt-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdQAqg3cZjYKuO-q_LsN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBiT87Xcjv9sBpZ8hTXt-75" target="aBiT87Xcjv9sBpZ8hTXt-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-75" value="软件测试管理系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="646" y="355" width="151" height="34" as="geometry" />
         </mxCell>
