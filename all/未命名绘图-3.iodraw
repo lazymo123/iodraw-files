@@ -864,7 +864,7 @@
           <mxGeometry x="1365" y="6487" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-479" value="指派" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1365" y="6617" width="81" height="81" as="geometry" />
+          <mxGeometry x="1367" y="6606" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aBiT87Xcjv9sBpZ8hTXt-480" value="产出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1695" y="6487" width="81" height="81" as="geometry" />
